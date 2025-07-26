@@ -1,0 +1,3 @@
+# LIST OF GLOBAL STYLE VARIABLES
+
+PAREN_DIR_LATEX: str = 'latex-test'
